@@ -28,8 +28,8 @@ The dataset used for training and evaluation is a collection of dental radiograp
 
 1. Clone this repository:
     
-         git clone https://github.com/username/dental-diseases-detection.git
-         cd dental-diseases-detectionInstall the required dependencies:
+       git clone https://github.com/username/dental-diseases-detection.git
+       cd dental-diseases-detectionInstall the required dependencies:
 
 2.Install the required dependencies:
 
