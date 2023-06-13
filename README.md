@@ -28,16 +28,16 @@ The dataset used for training and evaluation is a collection of dental radiograp
 
 1. Clone this repository:
     
-   git clone https://github.com/username/dental-diseases-detection.git
-   cd dental-diseases-detectionInstall the required dependencies:
+          git clone https://github.com/username/dental-diseases-detection.git
+         cd dental-diseases-detectionInstall the required dependencies:
 
 2.Install the required dependencies:
 
-  pip install -r requirements.txt
+      pip install -r requirements.txt
 
 3.Download the pre-trained YOLOv5 weights:
   
-  wget https://github.com/ultralytics/yolov5/releases/download/v4.0/yolov5s.pt
+     wget https://github.com/ultralytics/yolov5/releases/download/v4.0/yolov5s.pt
 
 4.Run the detection script on sample images:
   
