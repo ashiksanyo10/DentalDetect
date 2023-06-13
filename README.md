@@ -1,2 +1,4 @@
 Using YoloV5 model to detect the dental disorder in the Panoramic X-Ray 
-Notebook https://colab.research.google.com/drive/1uKAC3S7vcqqjeTq-PRFbV-g4lnY8oHbi?usp=sharing
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashiksanyo10/DentalDetect/blob/master/DentalYoloV5Final.ipynb)
+
